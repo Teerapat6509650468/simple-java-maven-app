@@ -21,7 +21,15 @@ public class App {
         return "Hello!";
     }
 
-    publuc void testHermes() {
+    public void testHermes() {
         System.out.println("Harmongus");
+    }
+
+    public void testHermes2() {
+        System.out.println("Harmongus2");
+    }
+
+    public void testHermes3() {
+        System.out.println("Harmongus3");
     }
 }
