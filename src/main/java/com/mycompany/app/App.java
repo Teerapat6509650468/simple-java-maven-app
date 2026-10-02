@@ -28,4 +28,8 @@ public class App {
     public void testHermes2() {
         System.out.println("Harmongus2");
     }
+
+    public void testHermes3() {
+        System.out.println("Harmongus3");
+    }
 }
